@@ -1,6 +1,7 @@
 package com.example.demo.model;
 
 import com.example.demo.model.Emp;
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.*;
 
 import javax.persistence.*;
@@ -17,7 +18,9 @@ public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     private String fullname;
-    @OneToOne(fetch = FetchType.LAZY,cascade = CascadeType.ALL)
+    @ManyToOne(fetch = FetchType.LAZY,cascade = CascadeType.ALL)
     @JoinColumn(name = "eid",referencedColumnName = "id")
+    @JsonBackReference
+    @ToString.Exclude
     private Emp emp;
 }

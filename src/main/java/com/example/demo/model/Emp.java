@@ -1,9 +1,11 @@
 package com.example.demo.model;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.*;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
+import java.util.List;
 
 @Entity
 @Getter
@@ -17,6 +19,8 @@ public class Emp {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private Timestamp time;
-    @OneToOne(cascade = CascadeType.ALL,fetch = FetchType.LAZY,mappedBy = "emp")
-    private User user;
+    @OneToMany(cascade = CascadeType.ALL,fetch = FetchType.LAZY,mappedBy = "emp")
+    @ToString.Exclude
+    @JsonBackReference
+    private List<User> user;
 }
