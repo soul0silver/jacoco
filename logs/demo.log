@@ -1,0 +1,116 @@
+[20240626 21:53:09:649][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.2 with PID 6756 (C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs\target\classes started by DAT in C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs)
+[20240626 21:53:09:651][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240626 21:53:09:698][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240626 21:53:09:698][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240626 21:53:10:564][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8088 (http)
+[20240626 21:53:10:570][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8088"]
+[20240626 21:53:10:571][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240626 21:53:10:572][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240626 21:53:10:612][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240626 21:53:10:613][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 915 ms
+[20240626 21:53:10:923][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240626 21:53:10:939][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8088"]
+[20240626 21:53:10:954][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8088 (http) with context path ''
+[20240626 21:53:10:961][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.835 seconds (process running for 3.357)
+[20240626 21:57:39:358][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240626 21:57:39:358][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240626 21:57:39:359][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20240626 22:32:35:262][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.2 with PID 3944 (C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs\target\classes started by DAT in C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs)
+[20240626 22:32:35:264][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240626 22:32:35:307][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240626 22:32:35:308][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240626 22:32:36:186][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8088 (http)
+[20240626 22:32:36:193][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8088"]
+[20240626 22:32:36:194][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240626 22:32:36:195][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240626 22:32:36:235][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240626 22:32:36:235][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 927 ms
+[20240626 22:32:36:555][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240626 22:32:36:569][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8088"]
+[20240626 22:32:36:586][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8088 (http) with context path ''
+[20240626 22:32:36:593][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.807 seconds (process running for 2.5)
+[20240626 22:32:41:311][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240626 22:32:41:311][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240626 22:32:41:312][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20240626 22:33:50:272][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.2 with PID 12612 (C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs\target\classes started by DAT in C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs)
+[20240626 22:33:50:273][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240626 22:33:50:329][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240626 22:33:50:330][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240626 22:33:51:171][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8088 (http)
+[20240626 22:33:51:176][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8088"]
+[20240626 22:33:51:178][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240626 22:33:51:179][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240626 22:33:51:214][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240626 22:33:51:215][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 884 ms
+[20240626 22:33:51:529][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240626 22:33:51:543][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8088"]
+[20240626 22:33:51:557][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8088 (http) with context path ''
+[20240626 22:33:51:565][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.734 seconds (process running for 2.325)
+[20240626 22:33:55:535][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240626 22:33:55:536][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240626 22:33:55:537][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20240626 22:35:09:527][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.2 with PID 7824 (C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs\target\classes started by DAT in C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs)
+[20240626 22:35:09:528][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240626 22:35:09:580][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240626 22:35:09:580][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240626 22:35:10:412][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8088 (http)
+[20240626 22:35:10:418][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8088"]
+[20240626 22:35:10:420][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240626 22:35:10:421][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240626 22:35:10:457][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240626 22:35:10:458][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 877 ms
+[20240626 22:35:10:777][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240626 22:35:10:792][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8088"]
+[20240626 22:35:10:809][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8088 (http) with context path ''
+[20240626 22:35:10:815][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.758 seconds (process running for 2.377)
+[20240626 22:35:18:043][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240626 22:35:18:044][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240626 22:35:18:044][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[20240626 22:37:05:085][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.2 with PID 13836 (C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs\target\classes started by DAT in C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs)
+[20240626 22:37:05:087][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240626 22:37:05:139][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240626 22:37:05:139][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240626 22:37:05:964][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8088 (http)
+[20240626 22:37:05:970][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8088"]
+[20240626 22:37:05:971][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240626 22:37:05:971][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240626 22:37:06:005][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240626 22:37:06:005][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 866 ms
+[20240626 22:37:06:325][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240626 22:37:06:341][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8088"]
+[20240626 22:37:06:360][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8088 (http) with context path ''
+[20240626 22:37:06:369][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.729 seconds (process running for 2.526)
+[20240626 22:37:11:735][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240626 22:37:11:735][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240626 22:37:11:736][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20240626 22:37:44:918][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.2 with PID 14080 (C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs\target\classes started by DAT in C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs)
+[20240626 22:37:44:927][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240626 22:37:44:976][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240626 22:37:44:976][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240626 22:37:45:814][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8088 (http)
+[20240626 22:37:45:820][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8088"]
+[20240626 22:37:45:822][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240626 22:37:45:822][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240626 22:37:45:859][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240626 22:37:45:859][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 882 ms
+[20240626 22:37:46:203][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240626 22:37:46:218][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8088"]
+[20240626 22:37:46:235][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8088 (http) with context path ''
+[20240626 22:37:46:242][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.81 seconds (process running for 2.701)
+[20240626 22:38:08:087][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.2 with PID 5112 (C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs\target\classes started by DAT in C:\Users\DAT\Downloads\payment-widget-sample-main\java-vanillajs)
+[20240626 22:38:08:088][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240626 22:38:08:145][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240626 22:38:08:145][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240626 22:38:09:028][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8088 (http)
+[20240626 22:38:09:034][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8088"]
+[20240626 22:38:09:036][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240626 22:38:09:036][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240626 22:38:09:079][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240626 22:38:09:080][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 935 ms
+[20240626 22:38:09:388][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240626 22:38:09:403][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8088"]
+[20240626 22:38:09:419][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8088 (http) with context path ''
+[20240626 22:38:09:426][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.82 seconds (process running for 2.589)
+[20240626 22:38:15:955][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240626 22:38:15:956][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240626 22:38:15:956][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms
